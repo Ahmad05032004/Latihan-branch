@@ -1,2 +1,1 @@
-# Latihan-branch
-Latihan Membuat Branch
+# Ini adalah repository latihan membuat branch
